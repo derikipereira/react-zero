@@ -1,0 +1,26 @@
+.Mega label {
+    margin-right: 10px;
+}
+
+.Mega input {
+    text-align: right;
+    font-size: 1.4rem;
+    width: 50px;
+}
+
+.Mega ul {
+    display: flex;
+    list-style: none;   
+}
+
+.Mega li {
+    border: 5px solid #242323;
+    margin: 5px;
+    height: 30px;
+    width: 30px;
+    text-align:center;
+    font-size: 1.2rem;
+    background-color: #3b3d4b;
+    color: white;
+    border-radius: 50%;
+}

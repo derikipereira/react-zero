@@ -2,7 +2,9 @@ import "./App.css"
 
 import React from "react";
 
-
+import Mega from "./components/mega/Mega";
+import Contador from "./components/contador/Contador";
+import Input from "./components/formulario/Input";
 import IndiretaPai from "./components/comunicacao/IndiretaPai";
 import DiretaPai from "./components/comunicacao/DiretaPai";
 import UsuarioInfo from "./components/condicional/UsuarioInfo";
@@ -25,6 +27,18 @@ export default _ =>
         <h1>Fundamentos React </h1>
 
         <div className="Cards">
+
+            <Card titulo="#014 - Desafio Mega" color="#009688">
+                <Mega qtde={8}></Mega>
+            </Card>
+
+            <Card titulo="#013 - Contador" color="#251e3e">
+                <Contador numeroInicial={10}></Contador>
+            </Card>
+
+            <Card titulo="#012 - Componente Controlado (Input)" color="#fe4a49">
+                <Input></Input>
+            </Card>
 
             <Card titulo="#011 - Cominicação Indireta" color="#451e3e">
                 <IndiretaPai></IndiretaPai>
