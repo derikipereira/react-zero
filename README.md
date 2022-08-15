@@ -2,6 +2,8 @@
 
 my basics notions about React. Start of studies. 😁
 
+I separated the contents studied by cards. Can be viewed by running <strong>npm start</strong>.
+
 
 # Getting Started with Create React App
 
