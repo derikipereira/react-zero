@@ -1,6 +1,6 @@
 # Note Book Fundamentos React
 
-my basics notions about React. Start of studies. :)
+my basics notions about React. Start of studies. 😁
 
 
 # Getting Started with Create React App
