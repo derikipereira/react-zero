@@ -1,3 +1,8 @@
+# Note Book React Zero
+
+my basics notions about React. Start of studies. =D
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
