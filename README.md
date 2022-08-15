@@ -1,9 +1,10 @@
 # Note Book Fundamentos React
 
-my basics notions about React. Start of studies. 😁
+my basics notions about React.
 
 I separated the contents studied by cards. Can be viewed by running <strong>npm start</strong>.
 
+this is my beginning of studies. Enjoy 😁
 
 # Getting Started with Create React App
 
